@@ -22440,4 +22440,15 @@ span {
     padding: 0 8px; }
   .HeroComponent-dateOptionActive___3w4DE {
     padding: 0 8px; } }
-
+    .youtube {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+    }
+    .youtube iframe {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+    }

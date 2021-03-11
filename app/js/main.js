@@ -64,7 +64,24 @@ $(document).ready(function(){
         }else{
             $(this).children('img').attr('src', 'img/cTAASnD.png');
         }
-    });           
+    });
+});
+$(window).on('load', function(){
+    //処理
+    //スマホのみスライダー
+    $('.Teachers-teacherCardWrapper___2cjS8').not('.slick-initialized').slick({
+        mobileFirst: true,
+        slidesToShow: 2,
+        slidesToScroll: 2,
+        responsive: [ {
+            breakpoint: 768,
+            settings: 'unslick'
+        } ]
+    });
+    //リサイズした時に実行
+    $(window).on('resize orientationchange', function() {
+    　　$('.Teachers-teacherCardWrapper___2cjS8').slick('resize');
+    })
 });
 
 
