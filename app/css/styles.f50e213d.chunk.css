@@ -3993,6 +3993,57 @@ a:focus a:hover a:active {
   -webkit-transform: scaleX(-1);
           transform: scaleX(-1); }
 
+@media (max-width: 991px) {
+
+  .Teachers-container___2WeEs {
+    width: 100%;
+    /* display: -webkit-box; */
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    position: relative;
+    padding: 80px 32px;
+    background-image: url(https://cloud.toddleapp.com/s/content/ByQpeQeov.png);
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+  .Teachers-title___2zWw_ {
+    font-size: 24px; }
+  .Teachers-subtitle___Ls2GM {
+    font-size: 14px; }
+  .Teachers-container___2WeEs {
+    padding: 48px 24px 36px;
+     }
+  .Teachers-btnImage___283nu {
+    height: 80px;
+    width: 80px; }
+  .Teachers-prevBtnImage___lNHY1 {
+    height: 80px;
+    width: 80px; }
+  .Teachers-teacherCard___1LUNl {
+    padding: 24px; }
+  .Teachers-teacherCard___1LUNl {
+    height: 468px !important; }
+    .Teachers-teacherCard___1LUNl {
+      display: none;}
+  
+  .alixircard{
+
+    display: block;
+  }
+  .leyna{
+    display: block;
+  }
+
+}
+
 @media (max-width: 767px) {
   .Teachers-title___2zWw_ {
     font-size: 24px; }
