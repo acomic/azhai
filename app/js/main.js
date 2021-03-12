@@ -170,6 +170,17 @@ $(function() {
         rotate5($(".Features-illustration3___ovQsA"), $(window).scrollTop()*0.1);
     })
 });
+//青い波線2
+$(function() {
+    var rotate51 = function(logo, angle) {
+        logo.css({
+        "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+        }
+        $(window).on('load scroll',function(){
+        rotate51($(".Features-illustration7___2h3w5"), $(window).scrollTop()*0.1);
+    })
+});
 //棒グラフ
 $(function() {
     var rotate6 = function(logo, angle) {
@@ -234,5 +245,16 @@ $(function() {
     }
     $(window).on('load scroll',function(){
         rotate11($(".PrivacySection-illustration___2Xv9R"), $(window).scrollTop()*0.15);
+    })
+});
+//くるくるボール
+$(function() {
+    var rotate12 = function(logo, angle) {
+     logo.css({
+     "transform" : "rotate("+angle+"deg)"
+     });
+    }
+    $(window).on('load scroll',function(){
+    rotate12($(".Features-illustration8___3Vr3a"), $(window).scrollTop()*0.165);
     })
 });
