@@ -65,30 +65,51 @@ $(document).ready(function(){
             $(this).children('img').attr('src', 'img/cTAASnD.png');
         }
     });
-});
-$(function() {
-    var swiper; 
-    $(window).on('load resize', function(){
-        var w = $(window).width();
-        if (w <= 768) {
-            if (swiper) {
-                return;
-            } else {
-                swiper = new Swiper('.swiper-container', {
-                    loop:true,
-                    slidesPerView: 1,
-                    centeredSlides: true,
-                    navigation: {
-                        nextEl: '.swiper-button-next',
-                        prevEl: '.swiper-button-prev',
-                    },
-                });
-            }
-        } else {
-            if (swiper) {
-                swiper.destroy();
-                swiper = undefined;
-            } 
-        } 
+
+    $('.Teachers-nextbtn___WBGEv').click(function(){
+        var img_src = $(this).prev('div').find('img').attr('src');
+        var img_num = img_src.replace(/[^0-9]/g, '');
+        if(img_num == 3){
+            img_num = 1;
+        }else{
+            img_num++;
+        }
+        img_src = img_src.replace(/[1-3]/, img_num);
+        $(this).prev('div').find('img').attr('src',img_src);
+        change_card(img_num);
     });
+    $('.Teachers-prevbtn___2WFy0').click(function(){
+        change_card(true,$(this));
+        var img_src = $(this).prev().prev("div").find('img').attr('src');
+        console.log(img_src)
+        var img_num = img_src.replace(/[^0-9]/g, '');
+        if(img_num == 1){
+            img_num = 3;
+        }else{
+            img_num--;
+        }
+        img_src = img_src.replace(/[1-3]/, img_num);
+        $(this).prev().prev("div").find('img').attr('src',img_src);
+        change_card(img_num);
+    });
+    function change_card(img_num){
+        const teacherCardQuote = {
+            1 : "Toddle has taken collaboration in the virtual realm to the next level. Teaching and learning is at the core of Toddle and whether you are a parent, student, or teacher, the simplicity of the platform is bound to win your heart!",
+            2 : "As part of the MYP: Next Chapter development team, I worked to help re-define how practitioners plan for collaborative inquiry in the programme. It’s really gratifying to see those principles translated with such fidelity into this platform.",
+            3 : "Toddle has developed a thoughtful and engaging platform for MYP planning. The design has deeply considered the needs of MYP educators in building quality curriculum to encourage rich learning experiences for students"
+        }
+        const teacherCardName = {
+            1 : "Jitendra Pandey",
+            2 : "Dr Robert Harrison",
+            3 : "Natalie Jensen"
+        }
+        const teacherCardDesg = {
+            1 : "MYP Coordinator, Stonehill International School, Bengaluru, India",
+            2 : "Head of MYP Development 2013-18",
+            3 : "Educational Consultant and IB Workshop Leader"
+        }
+        $('.Teachers-teacherCardQuote___1O-sV').text(teacherCardQuote[img_num]);
+        $('.Teachers-teacherCardName___2IMtQ').text(teacherCardName[img_num]);
+        $('.Teachers-teacherCardDesg___35xvq').text(teacherCardDesg[img_num]);
+    }
 });
