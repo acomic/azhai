@@ -113,3 +113,126 @@ $(document).ready(function(){
         $('.Teachers-teacherCardDesg___35xvq').text(teacherCardDesg[img_num]);
     }
 });
+
+/*以下スクロールの動き*/
+//紙飛行機
+$(function() {
+    var rotate = function(logo, angle, angle2) {
+     logo.css({
+     "transform" : "translate3d(-"+angle+"px,"+angle2+"px,0px)"
+     });
+    }
+    $(window).on('load scroll',function(){
+     rotate($(".HeroComponent-illustration___3G4BL"), $(window).scrollTop()*0.03 , $(window).scrollTop()*0.04);
+    })
+});
+//赤・黄の三角
+$(function() {
+    var rotate2 = function(logo, angle) {
+        logo.css({
+        "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+        }
+        $(window).on('load scroll',function(){
+        rotate2($(".HeroComponent-illustration2___wlf80"), $(window).scrollTop()*0.2);
+    })
+});
+//三つポール
+$(function() {
+    var rotate3 = function(logo, angle) {
+     logo.css({
+     "transform" : "rotate("+angle+"deg)"
+     });
+    }
+    $(window).on('load scroll',function(){
+     rotate3($(".Features-illustration2___2Ytwk"), $(window).scrollTop()*0.115);
+    })
+});
+//箱の傾き
+$(function() {
+    var rotate4 = function(logo, angle) {
+     logo.css({
+     "transform" : "rotate("+angle+"deg)"
+     });
+    }
+    $(window).on('load scroll',function(){
+     rotate4($(".Features-illustration1___1NN4K"), $(window).scrollTop()*0.02);
+    })
+});
+//青い波線
+$(function() {
+    var rotate5 = function(logo, angle) {
+        logo.css({
+        "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+        }
+        $(window).on('load scroll',function(){
+        rotate5($(".Features-illustration3___ovQsA"), $(window).scrollTop()*0.1);
+    })
+});
+//棒グラフ
+$(function() {
+    var rotate6 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate6($(".Features-illustration4___3O19C"), $(window).scrollTop()*0.1);
+    })
+});
+//ピンクのメモリ
+$(function() {
+    var rotate7 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate7($(".Features-illustration5___3-_u_"), $(window).scrollTop()*0.1);
+    })
+});
+//黄色いビデオカメラ
+$(function() {
+    var rotate8 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate8($(".Features-illustration6___1yJ-s"), $(window).scrollTop()*0.1);
+    })
+});
+//黄色っぽい吹き出し
+$(function() {
+    var rotate9 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate9($(".Features-illustration9___3tAN8"), $(window).scrollTop()*0.1);
+    })
+});
+//青緑の玉
+$(function() {
+    var rotate10 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate10($(".SeamlessExp-illustration___3eP5U"), $(window).scrollTop()*0.1);
+    })
+});
+//ピンクの南京錠
+$(function() {
+    var rotate11 = function(logo, angle) {
+        logo.css({
+            "transform" : "translate3d(0px,-"+angle+"px,0px)"
+        });
+    }
+    $(window).on('load scroll',function(){
+        rotate11($(".PrivacySection-illustration___2Xv9R"), $(window).scrollTop()*0.15);
+    })
+});
