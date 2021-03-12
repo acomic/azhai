@@ -3939,6 +3939,10 @@ a:focus a:hover a:active {
           justify-content: space-between;
   -webkit-box-align: center;
           align-items: center; }
+  
+  .alixircard{
+    display: none;
+  }
 
 .Teachers-teacherCardImage___1syHN {
   width: 120px;
@@ -3975,6 +3979,9 @@ a:focus a:hover a:active {
   position: absolute;
   left: -32px;
   cursor: pointer; }
+  .leyna{
+    display: none ;
+  }
 
 .Teachers-btnImage___283nu {
   height: 100px;
@@ -4004,6 +4011,14 @@ a:focus a:hover a:active {
     padding: 24px; }
   .Teachers-teacherCard___1LUNl {
     height: 468px !important; }
+    .Teachers-teacherCard___1LUNl {
+      display: none; }
+      .alixircard{
+        display: block;
+      }
+      .leyna{
+        display: block;
+      }
   .Teachers-teacherCardQuote___1O-sV {
     padding: 0 8px 12px; }
   .Teachers-dotsWrapper___27u82 {
