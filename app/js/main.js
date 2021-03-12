@@ -66,22 +66,29 @@ $(document).ready(function(){
         }
     });
 });
-$(window).on('load', function(){
-    //処理
-    //スマホのみスライダー
-    $('.Teachers-teacherCardWrapper___2cjS8').not('.slick-initialized').slick({
-        mobileFirst: true,
-        slidesToShow: 2,
-        slidesToScroll: 2,
-        responsive: [ {
-            breakpoint: 768,
-            settings: 'unslick'
-        } ]
+$(function() {
+    var swiper; 
+    $(window).on('load resize', function(){
+        var w = $(window).width();
+        if (w <= 768) {
+            if (swiper) {
+                return;
+            } else {
+                swiper = new Swiper('.swiper-container', {
+                    loop:true,
+                    slidesPerView: 1,
+                    centeredSlides: true,
+                    navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                    },
+                });
+            }
+        } else {
+            if (swiper) {
+                swiper.destroy();
+                swiper = undefined;
+            } 
+        } 
     });
-    //リサイズした時に実行
-    $(window).on('resize orientationchange', function() {
-    　　$('.Teachers-teacherCardWrapper___2cjS8').slick('resize');
-    })
 });
-
-
