@@ -5,8 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>テストサイト</title>
-    <link rel="stylesheet" href="css/commons.6cfb0525.chunk.css">
-    <link rel="stylesheet" href="css/styles.f50e213d.chunk.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/myp/css//commons.6cfb0525.chunk.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/myp/css//styles.f50e213d.chunk.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 </head>
 <body>
@@ -47,7 +47,7 @@
                     <div class="DesktopMenu-gridSubMenuContainer___15Y4A"><a class="DesktopMenu-gridSubMenuItem___2kjCO"
                         href="https://www.toddleapp.com/pyp" style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/B1pOrF1jP.jpeg">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1pOrF1jP.jpeg">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">PYP Home</span><span
@@ -56,7 +56,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/planning"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/Hy_hl6nsw.png">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Hy_hl6nsw.png">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Collaborative Planning</span><span
@@ -65,7 +65,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/report"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/SJ1Re63oD.png">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SJ1Re63oD.png">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Portfolios &amp; Reports</span><span
@@ -74,7 +74,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/evidence"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/HJnhS22sP.jpeg">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//HJnhS22sP.jpeg">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Evidence Collection</span><span
@@ -83,7 +83,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/communication"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/BJXHd23iw.png">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//BJXHd23iw.png">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Family Communication</span><span
@@ -92,7 +92,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/remote-learning"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/SJYsUtksw.jpeg">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SJYsUtksw.jpeg">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Remote Learning</span><span
@@ -106,7 +106,7 @@
                     <div class="DesktopMenu-gridSubMenuContainer___15Y4A"><a class="DesktopMenu-gridSubMenuItem___2kjCO"
                         href="https://www.toddleapp.com/community" style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/rJiG8h3iD.jpeg">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//rJiG8h3iD.jpeg">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">PYP Community</span><span
@@ -115,7 +115,7 @@
                       </a><a class="DesktopMenu-gridSubMenuItem___2kjCO" href="https://www.toddleapp.com/pricing"
                         style="color:#2b2b2b">
                         <div class="DesktopMenu-gridMenuItemwrapper___2fgoP">
-                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="img/HkCQ8nnsw.jpeg">
+                          <div><img class="DesktopMenu-gridMenuItemImage___zsWN8" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//HkCQ8nnsw.jpeg">
                           </div>
                           <div class="DesktopMenu-gridMenuItemInfo___2ezm8"><span
                               class="DesktopMenu-gridMenuItemLabel___38qxq">Pricing</span><span
@@ -137,17 +137,17 @@
                   <div class="DesktopMenu-subMenuWrapper___20l8I DesktopMenu-horizontalSubMenuWrapper___RvDHf">
                     <div class="DesktopMenu-horizontalSubMenuContainer___1tqoP"><a
                         class="DesktopMenu-horizontalSubMenuItem___3DRj0" href="https://learn.toddleapp.com/talks/"><img
-                          class="DesktopMenu-horizontalMenuItemImage___1Yso2" src="img/rJ8OBWfLw.png"><span
+                          class="DesktopMenu-horizontalMenuItemImage___1Yso2" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//rJ8OBWfLw.png"><span
                           class="DesktopMenu-horizontalMenuItemLabel___1qFGr">Talks</span><span
                           class="DesktopMenu-horizontalMenuItemText___13pJo">Watch webinars and learn from our industry’s
                           best</span></a><a class="DesktopMenu-horizontalSubMenuItem___3DRj0"
                         href="https://learn.toddleapp.com/resources/"><img class="DesktopMenu-horizontalMenuItemImage___1Yso2"
-                          src="img/SkaqBZzUw.png"><span
+                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SkaqBZzUw.png"><span
                           class="DesktopMenu-horizontalMenuItemLabel___1qFGr">Resources</span><span
                           class="DesktopMenu-horizontalMenuItemText___13pJo">Get printables, books, guides, templates, and
                           starter-kits</span></a><a class="DesktopMenu-horizontalSubMenuItem___3DRj0"
                         href="https://learn.toddleapp.com/"><img class="DesktopMenu-horizontalMenuItemImage___1Yso2"
-                          src="img/B1yGTyQIv.png"><span
+                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1yGTyQIv.png"><span
                           class="DesktopMenu-horizontalMenuItemLabel___1qFGr">Blogs</span><span
                           class="DesktopMenu-horizontalMenuItemText___13pJo">Discover ideas, experiences, articles and best
                           practices</span></a></div>
@@ -208,63 +208,63 @@
                               </div>
                               <div class="HamburgerMenu-menuItemContainer___FzRqe">
                                 <div class="HamburgerMenu-menuItem___3Cd_G js-open-humburger">PYP<img class="alixir" style="height:20px;width:20px"
-                                    src="img/B1f0RArhw.png"></div>
+                                    src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png"></div>
                                 <div  aria-hidden="true"
                                   class="rah-static--height-zero">
                                   <div class="js-open-child">
                                     <div class="HamburgerMenu-subMenuContainer___3GORZ"><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/pyp"><img class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/B1pOrF1jP.jpeg"> <!-- -->PYP Home</a><a
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1pOrF1jP.jpeg"> <!-- -->PYP Home</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/planning"><img
-                                          class="HamburgerMenu-subMenuImage___3DF1r" src="img/Hy_hl6nsw.png">
+                                          class="HamburgerMenu-subMenuImage___3DF1r" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Hy_hl6nsw.png">
                                         <!-- -->Collaborative Planning</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/report"><img
-                                          class="HamburgerMenu-subMenuImage___3DF1r" src="img/SJ1Re63oD.png">
+                                          class="HamburgerMenu-subMenuImage___3DF1r" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SJ1Re63oD.png">
                                         <!-- -->Portfolios &amp; Reports</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/evidence"><img
                                           class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/HJnhS22sP.jpeg"> <!-- -->Evidence Collection</a><a
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//HJnhS22sP.jpeg"> <!-- -->Evidence Collection</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/communication"><img
-                                          class="HamburgerMenu-subMenuImage___3DF1r" src="img/BJXHd23iw.png">
+                                          class="HamburgerMenu-subMenuImage___3DF1r" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//BJXHd23iw.png">
                                         <!-- -->Family Communication</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/remote-learning"><img
                                           class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/SJYsUtksw.jpeg"> <!-- -->Remote Learning</a><a
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SJYsUtksw.jpeg"> <!-- -->Remote Learning</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/community"><img
                                           class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/rJiG8h3iD.jpeg"> <!-- -->PYP Community</a><a
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//rJiG8h3iD.jpeg"> <!-- -->PYP Community</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://www.toddleapp.com/pricing"><img
                                           class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/HkCQ8nnsw.jpeg"> <!-- -->Pricing</a></div>
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//HkCQ8nnsw.jpeg"> <!-- -->Pricing</a></div>
                                   </div>
                                 </div>
                               </div>
                               <div class="HamburgerMenu-menuItemContainer___FzRqe">
                                 <div class="HamburgerMenu-menuItem___3Cd_G js-open-humburger">Learn<img style="height:20px;width:20px"
-                                    src="img/B1f0RArhw.png"></div>
+                                    src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png"></div>
                                 <div  aria-hidden="true"
                                   class="rah-static--height-zero">
                                   <div class="js-open-child">
                                     <div class="HamburgerMenu-subMenuContainer___3GORZ"><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://learn.toddleapp.com/talks/"><img
-                                          class="HamburgerMenu-subMenuImage___3DF1r" src="img/rJ8OBWfLw.png">
+                                          class="HamburgerMenu-subMenuImage___3DF1r" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//rJ8OBWfLw.png">
                                         <!-- -->Talks</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://learn.toddleapp.com/resources/"><img
-                                          class="HamburgerMenu-subMenuImage___3DF1r" src="img/SkaqBZzUw.png">
+                                          class="HamburgerMenu-subMenuImage___3DF1r" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//SkaqBZzUw.png">
                                         <!-- -->Resources</a><a
                                         class="HamburgerMenu-subMenuItem___Y-tYL HamburgerMenu-horizontalSubMenuItem___aBf_X"
                                         href="https://learn.toddleapp.com/"><img class="HamburgerMenu-subMenuImage___3DF1r"
-                                          src="img/B1yGTyQIv.png"> <!-- -->Blogs</a></div>
+                                          src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1yGTyQIv.png"> <!-- -->Blogs</a></div>
                                   </div>
                                 </div>
                               </div>
@@ -331,14 +331,14 @@
                 </div>
                 <script src="https://fast.wistia.com/assets/external/E-v1.js" async> </script>
               </div><img style="transform: translate3d(0px, 0px, 0px);" class="HeroComponent-illustration2___wlf80"
-                src="img/Triangle3D-921dc9314b21dca14354d44c979ef9b8.png">
+                src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Triangle3D-921dc9314b21dca14354d44c979ef9b8.png">
               <div class="HeroComponent-requestButton_mobile___2jAr3">
                 <div class="UIButton-lg___3Q9mi UIButton-button___ZVJ55"
                   style="border-color:#f75961;background-color:#f75961;color:white;width:100%;min-width:144px;border-radius:8px;height:48px">
                   <div style="font-size:1.4rem;font-weight:bold" class="UIButton-lgLabel___3UW2U">Book a Free Demo</div>
                 </div>
               </div><img style="transform: translate3d(0px, 0px, 0px);" class="HeroComponent-illustration___3G4BL"
-                src="img/Plan3D-a609084fc5fd65958f4539b2e3fa41f4.png">
+                src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Plan3D-a609084fc5fd65958f4539b2e3fa41f4.png">
             </div>
           </div>
 
@@ -351,110 +351,110 @@
                 <div style="transform:translate3d(0,0,0)" class="Schools-track___PT22r">
                   <div class="Schools-trackInner___tplle">
                     <div id="0" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 3-3918643ca44918486ef60bd47dee2a4a.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 3-3918643ca44918486ef60bd47dee2a4a.png"></div>
                     <div id="1" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/ryphCwijv.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//ryphCwijv.png"></div>
                     <div id="2" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 2-6d4ca1ce76b6b8663e88c50b51aacb45.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 2-6d4ca1ce76b6b8663e88c50b51aacb45.png"></div>
                     <div id="3" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame_1-34951c8c0256757c14514dcdedd7de32.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame_1-34951c8c0256757c14514dcdedd7de32.png"></div>
                     <div id="4" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 18-9aaf2c86c71f9bac7dbe3e3d2eaa238f.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 18-9aaf2c86c71f9bac7dbe3e3d2eaa238f.png"></div>
                     <div id="5" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 20-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 20-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
                     <div id="6" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
                         src="data:image/png;base64,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">
                     </div>
                     <div id="7" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 13-c36e128723a8605e14c8808271d5cdb9.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 13-c36e128723a8605e14c8808271d5cdb9.png"></div>
                     <div id="8" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 11-3eac80227da0e38233ea8a30a482ecae.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 11-3eac80227da0e38233ea8a30a482ecae.png"></div>
                     <div id="9" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 22-cf81b5e18fb448a342ff0e16325fdb43.jpg"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 22-cf81b5e18fb448a342ff0e16325fdb43.jpg"></div>
                     <div id="10" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 6-f10ff9bdd780b24dff9d487683983980.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 6-f10ff9bdd780b24dff9d487683983980.png"></div>
                     <div id="11" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 12-f9ece2709c54c0d6a552bc5f88013944.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 12-f9ece2709c54c0d6a552bc5f88013944.png"></div>
                     <div id="12" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 9-5eb1845e6bfcb3ea7c8fb50019ba9b73.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 9-5eb1845e6bfcb3ea7c8fb50019ba9b73.png"></div>
                     <div id="13" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 10-f10c8b2f6d14553015016e156782deb3.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 10-f10c8b2f6d14553015016e156782deb3.png"></div>
                     <div id="14" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 7-61d380577441d6f19dc58e70a5f4839a.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 7-61d380577441d6f19dc58e70a5f4839a.png"></div>
                     <div id="15" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 21-28eeb2dfc46890fa3526b6630add045d.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 21-28eeb2dfc46890fa3526b6630add045d.png"></div>
                     <div id="16" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 8-2da16d853c3e9af804759b541f4b6bd2.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 8-2da16d853c3e9af804759b541f4b6bd2.png"></div>
                     <div id="17" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 14-3170fbbd3746ea68038d44b121a04879.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 14-3170fbbd3746ea68038d44b121a04879.png"></div>
                     <div id="18" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 15-b241eca956be467cfb2462364e9fac44.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 15-b241eca956be467cfb2462364e9fac44.png"></div>
                     <div id="19" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 16-a28f2ebe21fcb8aef7b9894859858760.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 16-a28f2ebe21fcb8aef7b9894859858760.png"></div>
                     <div id="20" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 17-ea8cf264f45d9b9c2d5331c5811ef782.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 17-ea8cf264f45d9b9c2d5331c5811ef782.png"></div>
                     <div id="21" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 3-3918643ca44918486ef60bd47dee2a4a.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 3-3918643ca44918486ef60bd47dee2a4a.png"></div>
                     <div id="22" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/ryphCwijv.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//ryphCwijv.png"></div>
                     <div id="23" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 2-6d4ca1ce76b6b8663e88c50b51aacb45.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 2-6d4ca1ce76b6b8663e88c50b51aacb45.png"></div>
                     <div id="24" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame_1-34951c8c0256757c14514dcdedd7de32.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame_1-34951c8c0256757c14514dcdedd7de32.png"></div>
                     <div id="25" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 18-9aaf2c86c71f9bac7dbe3e3d2eaa238f.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 18-9aaf2c86c71f9bac7dbe3e3d2eaa238f.png"></div>
                     <div id="26" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 20-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 20-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
                     <div id="27" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAADICAYAAABIxmvyAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAB0nSURBVHgB7Z0HfM3X+8c/IULIIBJBIrHHz95au6iW2qXD3mrVLDVa1UGVqtaoqr2C0Npqz9beI1YGEUEksnfyP88h+Qv35n5vEklO7vP2uq+X3Hu+497v5zznOc8Zj1miAAyjJom5wDAKwwJmlIYFzCgNC5hRGhYwozQsYEZpWMCM0rCAGaVhATNKwwJmlIYFzCgNC5hRGhYwozQsYEZpWMCM0pgjPYT8A0ReAMNkCJa1AJt3jToknQLeDjxZAIbJEBzGGC1gdiEYpWEBM0rDAmaUhgXMKA0LmFEaFjCjNCxgRmlYwIzSsIAZpWEBM0rDAmaUhgXMKA0LmFGa9M1GSytWzYFyB8HkRBKBW42B8BPIDNgCM0rDAmaUhgXMKA0LmFEaFjCjNCxgRmlYwIzSsIAZpWEBM0rDAmaUhgXMKA0LmFEaFjCjNCxgRmlYwIzSsIAZpWEBM0qTNSsyFCMhIQGPHz2Cr68vgoKCEBYWhoT4BMAMsMxnCduCtiju5AQn8bKwsEBWEB0dDW9vbzx66C/vMS4uDrly5YKNrQ2KFi0K15IlYWVlhZyGEgJ++vQpEoWItJDb3ByFChVCeoiMjMTFCxex959/cPb0ady7dw/h4eEGjzMX13Z2dka1GtXxTosWeLthQ3kvZmZmyEioQgU8eYJ/T/yLo0eO4OrVq/AR4o2Pj9d7DN2Dc4kSqFq1Kt5p2QJNmzZFwTdwb5mNEgL+5eefsWP7Dk1lK1QoD7dNm5AWQkNDsWWTO5YtWwa/B35ITNRWaZIgq0dWkF7b/t4KR2H52n7wAXr16S2FnRHc9PDAsj+XYv++fQgODtZ8XGJiIu6LikivXTt3oljx4mjTtg0+7d4DLq4uygpZCQGTRQwNCdFUNjzMsKXUxcEDBzDzhxnwvHsXGcUjf38htj+xccMGjBk7Vgo5rZDbMmvmTGzfuk1WtPTy0M8PS5f8ib+3/IXPR4/CJ927Kylik+/ERUVFYfnSpRgycFCGivdlwoTgpk+bhkkTJqZJfFcuX0bHdu2xbs3aDBHvy5B79tWUqZg6eQpiYmKgGibdiYuNjcVv8+ZhxbLl0q9807i7b0L+/JYY+8UXsLS01HTMlStX8PnwEdIPf5NsdFsv7i2/tMYFChSAKpisBSafcLO7O1atWCl78JkBRS5WLF+BlcuXaypPHceRw4a/cfESCQmJWCXua8f27VAJkxWwl5cX5s6eI/3rzGb50mUGXQGqYL/OnSc7XZlFnIhi/PDtd9J3VwWTFfCmDRul/5cV0HXXrVmTahkfHx+4b9qIzIas/prVq6EKJukDk++7RbgPxlLE0RH16taFY7FiyJ07t7CiIbhz+47sZFFn0Bj27NqNgYMHy8EGXRzaf9CoMBlRoVJF1K9XX4bIKKIQEPA8Vnzj+nVp0bWyfdt2DBk6VAlf2CQFTLFUY61v5y5dMHrcWDg4OMgBiyQiIiJw+9ZtTPpyIm7e8NB8Pt8Hvrh//z5cXV1f+4wq2P59e2EMffr1xdBhw2BXuHCK98mibhax7R9nzBS+vrZKRiG2K5cuo8HbbyG7Y5IuxGXxcIzh3datMf3771BMWN6XxUtQz726GHlbuGiRHE7WSlRUNO756PZvKeZ714iQXsNGjTBpypTXxEuQFaX482gRh9YKjeidOJE5m/OlF5MUsJenp+ayefLkwSc9uiNfvnyplqO5Bh07doBW4oSVJaHq4mlAgGghAqEFchU++fRTva5IEh06dTBqoMLvwQOogEkK+MmTJ5rLWtvYiOHpCprKVq1eXVjoPJrKUtyZRKwLCptpHcamilW5ahWD5ezt7YWFtoNWIiMjoAImKWBj/N/8YsChsI6mWRfOTs5igCIftKKvY/Xo0SNohTqWWjtbxsyU097ly1pMUsBBQdqaZ8La2lpGHLRQwNoqQ6ZThoWGaS5LFthc4/3lRExSwMZM+DFGkBbCX0YGTIiJj4vXXJasuCrW8k1gkgI2JiZqTMcnl7CEGTGfy5hrkq+aGfM4siu8pCgbkjdvXs1lA0W0IiI8bVNIcwIs4GyIta215rI0kEJLnUwVXhOXDSnqWFRzWXKH9u/bj/oNGqRajtySadOnIzJC2+SlosW030NWwgLOhhR3dkJu89yaO3Pumzah20cfoVz5cqmWa9GyJXIa7EJkQwoWLChiz/aay9Nyq3Gjx+DunTswNVjA2RAbMfpXRcPo2stcu3YV3bp8iI0bNho9M05l2IXIQGiiT63atREeYTgqQHMXnEvoXqlMAyft2rXH0cNH5EpnrdD0y0kTJuDihfNyZhoto8/psIAzEDs7Oyxc/DsygibNmsLF1TVNC003um3A6VOnMWLkCHTo1Ak5GXYhsim2trbo178f0oq3lxemTJ6CH2fOzJJlU5kFCzgb01VEFqrXrIG0EilixEt+X4x2bdrg4sWLRo1AqgILOBtDvvDX06YZFZHQhbeXN/r07IX5v/2meYMYVWABZ3OqVa+O+YsWpHu/N9pcZd7cuRjQf4DcayKnwAJWgLr16sH9ry2oWKlS+rZ/Eh7EuTNn8EnXbli+bBmicoBvzAJWBFqytGzlCnTv2RN582qfNK8LihPPmjEToz8fpfzgBwtYIYoUKYJp07/Boj9+l6uj0wOtfN63dy/69u6Nk/+dhKqwgBWkSdOm2L5rJzp07Kh5tYg+aBvZvr16Yfeu3VARFrCi2AsLPGvObPz40yyUSOeIG1ljGsGjDb1T2yQ7O8ICVhiyvh07d8bmrX9La2xmlvbHSXu1TZr4Jc6dPQeVYAHnAGgIe/bcnzFPxHlLis5eWnkWFIRRI0catSo6q2EB5xAovNbmgzZYuWYN2nVoLzdkSQuUzObn2bOVcSVYwDkMJ2cnfD9jhvCNf4Kzc9p8439278EtD+37vGUlLOAcCO3X1r5jByxfvRK16tSGsdCWV24bMn9r17TA0ykzEFreTptDa801QWmuaNbZm6JUqVJYuXo1Zs+aBbd1643aif7EsaNSyNk9txwLOAOhBIOfDR6MgIAAg2XJZ508dSree/99vEkoF8d4ESILCQ7BX1u2aD7O/+EjGZlgAZsQ1PHxf+ivScAUAouJ1m2p58z6Cc+Cn0ELzZo3N7hYk7afGjl6FLZv26Z5hQftJRwaHCy3lM3OsICzGTRnd+tff8Hv4UNN5WnjQS2rjSnRYvMWLbBPDFZoJcjIHeKzAu7EmQjksjQwsHfEq8QpkDeOBWxCOBZ1NKp8ggIrOFjAJoSxHbLc5tnfw2QBmxRqZ6bXBQuYURoWcAaSKAYysrPXGBurXjJvQ7CADWBMBneKsWpduq6vnJnZm2vmjZ2go4I4WMAGoOFUraKMEkO18UZsBWUoNZYWYmNiNZfVurVqEnnzpW/tXWbAAjZAeEQEQjTupfD48WPNFpvSEejLPWdmxDKhECP2eXgaYFx20vwKpJo1SQEbs4U/7aegNWsm5STWujMkZRaysbXR+VmB/PmhFU8vT5lO1hDUily9pn0/CNqokDI0ZXdMUsB29tryvhE0g2vtqtUG5xCQiI4eOaLZ3SDrq29lsb0RK44pp/FNj5sGy5GlPnTgILRia2MDy3yWyO6YpIDLlilrVHmaBLNhvZtecdL769aswbkzZ6EVsm76ciuXL18eWqEcGd98/TUCUsk+Sq3CjO9/MCr7vb1jEVjmz/4CNsnJPPXfaoD169ZpLk/zfL/+aioOHTwol+tUrVpVdnBIPB7CbdixYwcO7j9g1OZ5latU1uvKtH7/PaxYvhxauXb1Ktp/0A7de3RHy1atnm9DJaIZ5I+fPnVKzgU+f864xZrVq9cwmB86O2CSAq5dp47MaRwXp70HTwHew4cOyReFuiiCEJ8Qn+acrM2av6P3M7LAZcuVxZ3b2nfNobVsc+f8jF9+nitTz9I9UgVLy9o2+m5t27aFCpikC0FzXDt/2BlphSytFEYaxetYtCg+aN9O7+e2BQsKa9ozTTFhujcK/dFk9LQuzKxWrRpq1KoJFTDZMNqgwYOzZLI2Wf7BQwYbbJ67ftQNFSpUQGZDE3i+nDJZrqtTAZMVMG2W9/mY0XLJTWbSpGljdOna1WA5Evi0b7/N9Fhs9+7dZZ4PVTBZAVPz/KEQ0uSpUzLN2rz19tv4bsYM6aNqoU7dOpj+7XRY5NWecDw9dOjUEeMnTnijw9kZjcmPxH386af4dcH8N+pO2NjaCqv7IZatWC53mDQG2jpqxapVKFeuHN4UFA3p2aun3E8is1uk9MJr4vB8YaSb+yYsXrgIR8RghN+DBxmST4IWbtatVxc9e/eW4a207iRZr359rNvghoULFshNR/we+iEjpr3RaFvValUxYNAgvNu6tVKWNwklBPx+mzbCcmlbDuPoaJyFS8JJDCp88923CH72DEeOHsXObdtx5fLl5BXGWgT9/PmboXjx4mjctAk6demCKlWqGDV0rY9CdnZyGf5nw4Zhl4g7b97kjhs3PESkIc7oykZ7UTR75x10FvdXs2YNJeY86MMsMT2mxnc48GQBjMaqOVBO+7BmVkE/DcViL1+6JPO1PfR/iGdBz+SwMQ0tU7w0X768MuxVrFhx0cyXlTHmMmWNG+lLK89EZbtw/jyuXbuGB/d9ERj4VITPwhAd83wDEzPxj/x7GvVzKOIg76tmzZoyVYH5G1suJOR0q7EYWz8Bo3EYAzjPMeaIRHYhUoGaVEqgbSiJdlZBOZWbC0tKL1OFp1MySsMCZpSGBcwoDQuYURqlBGwoYEKfawmqaCmXUddKL8Z8J1NEGQHv3rkLE8d/ofdB+fv7Y+zo0RjUfwDmzpmjt9yJ48cxoG8/DB0yBKdO6s6PRll7pnw5Cd7e3jo/p1jxsM8+Q68ePYyeZ5sEzTFeOH8BVq1cqbcMbdfav09fDBT3u/SPJame78svJuDI4SN6P78owm39+vTBwH79sWe3/pRatISqv7geZbtXAWUEfEwMLhw/dkwKVRc0efvC+QtyPH/r31vheUf3OrbAwEApwJq1amHpkj91lkmIj8clEfulpCe6OC/EQPvt1q5dG+4bNyEtREZGSiEdOXRYztvVBVUkivO+07IF1q5do/dccbFx4jv/jX+P64+9PgsJwUO/h6hWo7ocBNEHDY4cE6ORZ86cgQooI2AK1tN8hQe+vnrLUNyWREVB+qgY/buRF3awl5PGtSyG1IWFRV48FMO5NPw6asxopAVaoxYTHS2tbKQeARN5LCzkXIpcqaTQunPnthxJpIEWEr0+aIabrY1tqglgrovfmeZd3Lh+AyqghIDpIYcEB6OmEKe3lzeymrcbvo0WLVthxNBh8LhpeEGlLmi+hZ29vRCTeapL46m1mP/rb3BJJX3WlctXULlqFQSJ1iVSTwJvcqkoL/KfS5bA1dVVb5mbNz2kxfe4cUMJv1oJAT95/ET6jLRsxsvLE1kNLZ8vWaokunbrio1ubqlaPX3cES4OTZ0g9+H+/ft6yxUWIp/767xUswbdunULiQmJ8BWtk77KQK1T5SpVMHPWj7h08aLec/n4+IiKEITAp4EINWLPiaxCCQH7igdMy2MCnz4VAtbfuRD9dVwUDyc6KgoWefTPoQ0V/uuVK1eQN1/aJtncvnUbB/btF817XtG0m6Vphx2qiCT8uNj4VFsVWtZ/VdxrapWE5mlQRQgNCRV+rp/eciEhwfLeoWfWGa1evu9zT86xoElMEZHG7eSTFSgyFyIRAwcPxtuNGmLTho1SzK9OTbQqUACNGjXC9q1b0e3jj1G6TGmdZ6Kl7AULFZSTdAYMHKizjJkQZENxLWsb3RuPNGnWFP/s2SM6YIcwUEQz0jJN0trKCuPGj0dgUKAUjC5oFlv9+vXkfg59+vXTey5aXdJvQH/s3b1H7zq4Ig4OcHFxEZGX/9Dto490lqFl9zTpnmblUbLDSAUEzLPRmAwmc2ej8UgcozQsYEZpWMCM0rCAGaVhATNKwwJmlIYFzCgNC5hRGhYwozQsYEZpWMCM0rCAGaVhATNKwwJmlIYFzCgNC5hRGhYwozQsYEZpWMCM0rCAGaXJwlXJprkZXc4nc59r1gg44iRwowqYHEp05m0MmDUCTogEoq6DYdIL+8CM0rCAGaVhATNKwwJmlIYFzCgNC5hRGhYwozQsYEZpWMCM0rCAGaVhATNKwwJmsglmSAvpm8yT/y3AIQ8YJkOwaQljSV+SF4bJWjjJC6M2LGBGaVjAjNKkrxMXHwwkpCGfrpmluLI9GCa9pK8T92AcEPA7jMa6GVB6hzFHvJY53exFvl963+zV3L+Jia8tLXy5/Mt/G3rP0PWS/07lmrqOS9M1dPDyOXSdP+nY1M6n6+/Uzqnrs9Tu8Q2SmD4LnBglLHA4jCY+wqjibuvW4eR/J1O817FLZ5ibm2P733+j5bvvopV4JTH9m29ktvUk8uTJg4mTvsTqVauSk2H37N0bVapWxYXz5+G2fr0UYIUKFdGrbx/8Om8e7nn7pLjemHFjceniJRw/dhQFCxXCl5MnY+eOHTh6+LDMl7xuzZoU1yQcHItg8pQpWLt6NS5fuoSK//sf+r7IeXxEHLdrx/9XYnNxj++9/z7q1K2LaV99BTs7OwwfORLBQc8w75e5KOLoiLHjx6c4/7179/DH74vFb/OfzBXdf9BAtGnbVuZu/k+8t0R8dvfuXTg4OKC3+F7t2rfHnt27cejAAXzYrRv+V7kyFvw2H08DnuDbH36QScs3b9qEdWvXyaz3FStWxLgvxqNM2bJSoG7r3eC+YQMCg4JQrVo1jBozGqVKl8bRo0exc9s2tOvQAY0aN0ZmokSyb0rMvWP7duTLlw8WeZ9nmK9bv5586JvdN8PJ2TmFgI8cOiwe7n1Y21jLv/NaWCA2dpzMMH/jxg35XukyZaSATxw/Lh6au7Qe77RsgZ59euPUyZM4d+YsbGxtk8855LMhuHTporwePWgS153bt+XfXbp2leK+53MPQUHPRWxvbw/XUiWRkJAghL4Tp0+dQtmyl9C7Tx95PGWNp2NtbGxgIe4vMDBQJhDfuXsPLp6/AF9fX1nJLry4ZqfOnVP8JpS9fsZ332O/+E6V/lcJDx48wPgxY+FU3AkuJV0xZuTnMol4ufLlxH1fwtjRY0QFrYC7t+9iy+YtqFOvnvisPI4eOYKbHh74SlR6qpBfTZmK/Pnzo0SJEti3dy+8vLywbecOnDh2HFMnTULBggVRrHhx7Nq5E16enli9fh3u3roj77GcMAAs4FQYNGRwslAdixbFvn379JbNX8ASCxYtlD+4UCfsCheW71taWiIuLg7eXt7ybxIdCcjM7PX+7Nxf58ks74RLyZLJ75MozwqBk2VPYuHi3/HI3x/9+/RFbtEyuG3cKIRgKTO+0/tEcEgw/MX/iwsBJEEWv6uoAEOFFb929RpCQkNQu24daTk9hUCuXbkqyzVu0iTFvZGFpEpTvHgxLFuxXFjNtfj1l3nwuOkBs1xmePLkCeo3aIBVa9dgwthx2Lp1Ky5fvgx9kIW9Lq4fnxCP8RMmCAvdFe+3ehePHz+Wr/OipSK69+wpKu8ItGzWHPfv38cDUdGyEqUETDW/kmiGtUAWtaxo+hyKFEnxPjXNERGR8BUWi4Ts5/dANoP3RXP8KmWElXYW1v1lSOzx8fE4f/YsrF5YeMJRNPF0TWq+zc1zi3sthryitXj06JEUk5WVFcLDwkWF8UkhYCsra9mCFCpkJ/9OFJWDxLrRbQOuXrqM27dvicpYQLgWdVLcB1Wi+Pg45LHIgwQhvspVqqBps6YoVqyYrDRJ35Xuhyq7PLeB7k50TIwY0DWT7gpVzgLinqlliBe/U2REhBztpfOT62YrDANZePotshKlwmiedzylv0cvskCpER+XgHNnz8my5OeSWAmyjiVLl4K/8IWfPn0q/L+n8uHHiSb5VS6K4+j4M6dPyyaboIfqWNQR165dg3mu3DCEt2iCIyIjpG8bIURAFv9VSFgxJB5RAfKIClKzVi1hvQsId+c6fLy9UcKlRHILkkQBIWpX0SqQT//TzB+ltV24eLEQcbPXzl/vrQYYLFwg8mmTrhck/Fg6NlbH906+L1FJ0vJZZqKUgJf8sRg9PvlUvlJrDolIIZrhQ4fKsiOHj0B4+PPOJgm1SpXKCA0NxWXRBJOIK1WqiLiE1y3JKOFH0vED+/fHM/HAiQRRrm7derh75y5iYmNgCHmfwvAlCYss8Mss/eMP2VSfP3dOuEetpO9Mbo+r8GPJpfARncmaNWpK//9lyE+lppx86L+2bEGPjz+Bn2hVyL9+laZNm4rO2BeoKjpeScyaMRPt2rQV3+MOVEYpF+KDdu1QvWYN+f8yotmnjos+6IEPEL1yauoKiIdNFisJija4b9wkLXOQ6OW7uLoiIf51i0JWy174wNScUuSBoCazhriH/cL/vi06cYa4Liw1NfP1RKeJeFUwdH8kWp97Ps/9cGEd6d4bNmyIpX/+Ka1y0+bNdJ67iRDm6nVrMWf2bBw+eAiDBwzEfOH36+SVMB91WEuXKg130YENDn4GVVFKwA0bN0JXEf7Rgnkec3Tv0eM1H5h8x1LChSA/8eRJCs0lpvBJX+aT7t1f84Hp+IqVKkmLTtERQ3jd9URB24LiPhxQyK6Q9L3DwsKSP+8kwoE9e/XCgL79ZK9/2IjhMrzVqEljLFu6VPrOFcpXeO280dHRMlpCFvjnX37BuDFjcHD/ARHmOy7ur2KKsvv37sO//55AexHmIqhStHoRejwuojAqC9jkhpLJ/ytZqpTs3FwVPXzqQJFItEKWmkJMhYRF9hSRAkPXuisiCdQR+qhrN9mJo4gEdeqSyJ3bXLoD1OGiyhElhEm4uLjI98mdcCrh/Nq5yfUZ1H8gZoj4LX2Xjp2eh9nCwkJfK3v+/DmsXrlKU4uhl0wfo9CGUgIOF50gEgO9knxagqxRcHCwfCV3ShIpbBWSXD76hTAShAtgkccCpYSIyZ8lC0uhNV2EhoQmH5/Us0940XmhTllUVFSq9xsQECB77xYyDh0rO2jUc/dLxfVJ5sXoGfX4SaC6i5ghNiZWnpt8/qT3koiICJeVKCT0uah1+ccvY/EiLEiVgFylpN+M1Eu/Gf2m0dFR8pyR8runHOGLifn/55BZ0QmlBDx39hzZ4aEXxTyTWL1yNVq3bCVfNGBAUDPd/aOPk8tfvHBBvh8vh1cTULnq8+1dKdQGPUOgfUTMM+n43bt2PT9ePBgKW9WoWROG8BTuA9GxUyc5GNBDuDRUASgyoY8EjQ/eWrQaFJ24fv06Jk+ciEULFsj3XVxchUvkJPx2C+FinMKIocNwUAx2EOT66LOkJEQacaMCP86YIaz7ADmIYW1tDVtbGznoQSycvwD9xAALdS4pGmNLgz0vzvn7gkXyGbRp/Z4cHMkMlPCBKexVo1ZKwVCTS4MMr75PHSAasi1U2O619yuIB1hYdJhyifBXw0aN4CMiAtQzzy0sE53HVXTmkuLHr1oQcjOcnJykcMki1q5TO/na+V90EMmCVatRXX5O5wkPD5Nlaomy5KtSB5T+jhduSBHhm9P/C7+4z2rVq8P/kb+0XvKcwn2g8naF7HT+JtbifN989y3m/DQb50XlNBfXJJ//3fday+86bfo0rFi+AudEdKNAgfwY22ccKgvf+oYQvDyvCMvR/VYWEZl8lvnkPdPgxe1bt+Qwt4cQIP0OI0ePkh3YD9q3w5kzp3Hi6DHcEqOIFLmhKEgJ4eokfZckconOaGZZ4PRN5vEdDjxZaPRhsGoGlDsIJv2QUCKEO0VD7HlfDLMnfyZi3xHC9SFBvzxqaAiKV9N5qdK+OkGH3CZyWaiC6XNtMpHE9Ak44pwIuF6B0ViITom18eufGOYVEnlNHKMyvCaOURsWMKM0LGBGaVjAjNKwgBmlYQEzSsMCZpSGBcwoDQuYURoWMKM0LGBGaVjAjNKwgBmloQntPBuNUZXE/wPpWLCsbrUFaAAAAABJRU5ErkJggg==">
                     </div>
                     <div id="28" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 13-c36e128723a8605e14c8808271d5cdb9.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 13-c36e128723a8605e14c8808271d5cdb9.png"></div>
                     <div id="29" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 11-3eac80227da0e38233ea8a30a482ecae.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 11-3eac80227da0e38233ea8a30a482ecae.png"></div>
                     <div id="30" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 22-cf81b5e18fb448a342ff0e16325fdb43.jpg"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 22-cf81b5e18fb448a342ff0e16325fdb43.jpg"></div>
                     <div id="31" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 6-f10ff9bdd780b24dff9d487683983980.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 6-f10ff9bdd780b24dff9d487683983980.png"></div>
                     <div id="32" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 12-f9ece2709c54c0d6a552bc5f88013944.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 12-f9ece2709c54c0d6a552bc5f88013944.png"></div>
                     <div id="33" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 9-5eb1845e6bfcb3ea7c8fb50019ba9b73.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 9-5eb1845e6bfcb3ea7c8fb50019ba9b73.png"></div>
                     <div id="34" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 10-f10c8b2f6d14553015016e156782deb3.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 10-f10c8b2f6d14553015016e156782deb3.png"></div>
                     <div id="35" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 7-61d380577441d6f19dc58e70a5f4839a.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 7-61d380577441d6f19dc58e70a5f4839a.png"></div>
                     <div id="36" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 21-28eeb2dfc46890fa3526b6630add045d.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 21-28eeb2dfc46890fa3526b6630add045d.png"></div>
                     <div id="37" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 8-2da16d853c3e9af804759b541f4b6bd2.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 8-2da16d853c3e9af804759b541f4b6bd2.png"></div>
                     <div id="38" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 14-3170fbbd3746ea68038d44b121a04879.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 14-3170fbbd3746ea68038d44b121a04879.png"></div>
                     <div id="39" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 15-b241eca956be467cfb2462364e9fac44.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 15-b241eca956be467cfb2462364e9fac44.png"></div>
                     <div id="40" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 16-a28f2ebe21fcb8aef7b9894859858760.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 16-a28f2ebe21fcb8aef7b9894859858760.png"></div>
                     <div id="41" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                        src="img/Frame 17-ea8cf264f45d9b9c2d5331c5811ef782.png"></div>
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Frame 17-ea8cf264f45d9b9c2d5331c5811ef782.png"></div>
                   </div>
                 </div>
                 <div class="Schools-mobileLogos___3OQjZ">
                   <div id="0" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m1-bfa746794f1509836730fcba133305d5.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m1-bfa746794f1509836730fcba133305d5.png"></div>
                   <div id="1" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m2-825b9800e906d09a392c0465cd769a76.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m2-825b9800e906d09a392c0465cd769a76.png"></div>
                   <div id="2" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m5-065401ac649e5ef407cec9ad3dd259fa.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m5-065401ac649e5ef407cec9ad3dd259fa.png"></div>
                   <div id="3" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m6-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m6-d470f8d5cca4a1f115a8fb13ef8b9500.png"></div>
                   <div id="4" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m7-4de1657a754548fcceddd02bf38989ec.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m7-4de1657a754548fcceddd02bf38989ec.png"></div>
                   <div id="5" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m8-85133e075742209847c90beda8f79d73.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m8-85133e075742209847c90beda8f79d73.png"></div>
                   <div id="6" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/m3-7274a31aa1eec7593d9b04fe6b6ff6a6.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//m3-7274a31aa1eec7593d9b04fe6b6ff6a6.png"></div>
                   <div id="7" class="Schools-logoWrapper___1c5dL"><img class="Schools-logo___ctu6s"
-                      src="img/ryphCwijv.png"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//ryphCwijv.png"></div>
                 </div>
               </div>
             </div>
@@ -466,7 +466,7 @@
               <div class="Teachers-teacherCardWrapper___2cjS8">
                 <div class="Teachers-teacherCard___1LUNl">
                   <div class="Teachers-teacherCardPart1___1NVu8"><img class="Teachers-teacherCardImage___1syHN"
-                      src="img/Teacher1.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Teacher1.png">
                     <div class="Teachers-teacherCardQuote___1O-sV">Toddle has taken collaboration in the virtual realm to the
                       next level. Teaching and learning is at the core of Toddle and whether you are a parent, student, or
                       teacher, the simplicity of the platform is bound to win your heart!</div>
@@ -479,7 +479,7 @@
                 </div>
                 <div class="Teachers-teacherCard___1LUNl">
                   <div class="Teachers-teacherCardPart1___1NVu8"><img class="Teachers-teacherCardImage___1syHN"
-                      src="img/Teacher2.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Teacher2.png">
                     <div class="Teachers-teacherCardQuote___1O-sV">As part of the MYP: Next Chapter development team, I worked
                       to help re-define how practitioners plan for collaborative inquiry in the programme. It’s really
                       gratifying to see those principles translated with such fidelity into this platform.</div>
@@ -491,7 +491,7 @@
                 </div>
                 <div class="Teachers-teacherCard___1LUNl">
                   <div class="Teachers-teacherCardPart1___1NVu8"><img class="Teachers-teacherCardImage___1syHN"
-                      src="img/Teacher3.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Teacher3.png">
                     <div class="Teachers-teacherCardQuote___1O-sV">Toddle has developed a thoughtful and engaging platform for
                       MYP planning. The design has deeply considered the needs of MYP educators in building quality curriculum
                       to encourage rich learning experiences for students</div>
@@ -503,7 +503,7 @@
                 </div>
                 <div class="Teachers-teacherCard___1LUNl alixircard">
                   <div class="Teachers-teacherCardPart1___1NVu8"><img class="Teachers-teacherCardImage___1syHN"
-                      src="img/Teacher3.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Teacher3.png">
                     <div class="Teachers-teacherCardQuote___1O-sV">Toddle has developed a thoughtful and engaging platform for
                       MYP planning. The design has deeply considered the needs of MYP educators in building quality curriculum
                       to encourage rich learning experiences for students</div>
@@ -513,35 +513,35 @@
                     <div class="Teachers-teacherCardDesg___35xvq">Educational Consultant and IB Workshop Leader</div>
                   </div>
                 </div>
-                <div class="Teachers-nextbtn___WBGEv leyna"><img class="Teachers-btnImage___283nu" src="img/migi.png"></div>
-                <div class="Teachers-prevbtn___2WFy0 leyna"><img class="Teachers-prevBtnImage___lNHY1" src="img/migi.png"></div>
+                <div class="Teachers-nextbtn___WBGEv leyna"><img class="Teachers-btnImage___283nu" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//migi.png"></div>
+                <div class="Teachers-prevbtn___2WFy0 leyna"><img class="Teachers-prevBtnImage___lNHY1" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//migi.png"></div>
               </div>
             </div>
             <div class="Features-container___h1v75">
               <div class="Features-containerInner___vma-I"><img style="transform: rotate(0deg);"
                   class="Features-illustration1___1NN4K"
-                  src="img/Graph3D-9ad31797c13acf80c876f03329e9075c.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Graph3D-9ad31797c13acf80c876f03329e9075c.png"><img
                   style="transform: rotate(0deg);" class="Features-illustration2___2Ytwk"
-                  src="img/Cube3D_1-c68b5520d938f3a1951c753b6a9e93cc.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Cube3D_1-c68b5520d938f3a1951c753b6a9e93cc.png"><img
                   style="transform: translate3d(0px, 0px, 0px);" class="Features-illustration3___ovQsA"
-                  src="img/Blue3DLine-53e984da642f844eb56bd53864e9d731.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Blue3DLine-53e984da642f844eb56bd53864e9d731.png"><img
                   style="transform: translate3d(0px, 0px, 0px);" class="Features-illustration4___3O19C"
-                  src="img/Bar3D-e0e18bec8f0bdd4cc8a8c6e01371fe18.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Bar3D-e0e18bec8f0bdd4cc8a8c6e01371fe18.png"><img
                   style="transform: translate3d(0px, 0px, 0px);" class="Features-illustration6___1yJ-s"
-                  src="img/Camera3D-f1db83da9d48e7ee0a6a30ad07b3fbf4.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Camera3D-f1db83da9d48e7ee0a6a30ad07b3fbf4.png"><img
                   style="transform: translate3d(0px, 0px, 0px);" class="Features-illustration5___3-_u_"
-                  src="img/Tape3D-17aa7c7de91dc5e9e7427d830c137bdb.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Tape3D-17aa7c7de91dc5e9e7427d830c137bdb.png"><img
                   style="transform: translate3d(0px, 0px, 0px);" class="Features-illustration7___2h3w5"
-                  src="img/Blue3DLine-53e984da642f844eb56bd53864e9d731.png"><img
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Blue3DLine-53e984da642f844eb56bd53864e9d731.png"><img
                   class="Features-illustration8___3Vr3a"
-                  src="img/Circle3D-925b42e26a045df6685d1e7edc8992bc.png"
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Circle3D-925b42e26a045df6685d1e7edc8992bc.png"
                   style="transform: rotate(0deg);"><img style="transform: translate3d(0px, 0px, 0px);"
                   class="Features-illustration9___3tAN8"
-                  src="img/Chat3D-596ba577f4587828017829acf9cc3b63.png">
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Chat3D-596ba577f4587828017829acf9cc3b63.png">
                 <div class="Features-title___3znsB">Your all-in-one platform for the MYP</div>
                 <div class="Features-shortFeaturesWrapper___3xDym">
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F1.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F1.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Collaborative
                         Planning</div>
@@ -549,7 +549,7 @@
                     </div>
                   </div>
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F2.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F2.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Assessments
                         &amp; Reports</div>
@@ -557,7 +557,7 @@
                     </div>
                   </div>
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F5.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F5.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Portfolios
                         &amp; projects</div>
@@ -565,7 +565,7 @@
                     </div>
                   </div>
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F4.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F4.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Streamlined
                         IB Evaluation</div>
@@ -573,7 +573,7 @@
                     </div>
                   </div>
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F3.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F3.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Remote
                         Learning</div>
@@ -581,7 +581,7 @@
                     </div>
                   </div>
                   <div class="Features-shortFeatureCard___srW0V"><img class="Features-shortFeatureCardImage___38Nj2"
-                      src="img/F6.png">
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//F6.png">
                     <div class="Features-shortFeatureCardInfo___3Pm0c">
                       <div class="Features-shortFeatureCardTitle___6aHLv">Family
                         Communication</div>
@@ -598,7 +598,7 @@
                     <div class="FeatureCard-description___16E0W">Work together to create beautiful unit plans and subject
                       group overviews; get automatic insights on your curriculum alignment</div>
                   </div>
-                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="img/Fold_1.png"
+                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Fold_1.png"
                       style="width:100%"></div>
                 </div>
               </div>
@@ -610,7 +610,7 @@
                     <div class="FeatureCard-description___16E0W">Create MYP criteria based rubrics at the click of a button;
                       seamlessly integrate assessments and progress reports</div>
                   </div>
-                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="img/Fold_2.png"
+                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Fold_2.png"
                       style="width:100%"></div>
                 </div>
               </div>
@@ -622,7 +622,7 @@
                     <div class="FeatureCard-description___16E0W">Empower your students to take ownership of their learning; an
                       experience so delightful your students will love it</div>
                   </div>
-                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="img/Fold_4.png"
+                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Fold_4.png"
                       style="width:100%"></div>
                 </div>
               </div>
@@ -635,7 +635,7 @@
                       and Practices; say goodbye to the pre-evaluation hustle</div>
                   </div>
                   <div style="z-index:1" class="FeatureCard-imageContainer___Pc1mq"><img
-                      src="img/B1kFO_wov.png" style="width:100%"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1kFO_wov.png" style="width:100%"></div>
                 </div>
               </div>
               <div style="background-image:url(https://cloud.toddleapp.com/s/content/Hy8Iy7ejw.png)"
@@ -647,7 +647,7 @@
                       personalised feedback. Keep learning going - anytime, anywhere.</div>
                   </div>
                   <div style="z-index:1" class="FeatureCard-imageContainer___Pc1mq"><img
-                      src="img/Feature3.png" style="width:100%"></div>
+                      src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Feature3.png" style="width:100%"></div>
                 </div>
               </div>
               <div style="background-image:url(https://cloud.toddleapp.com/s/content/ryUTpxeov.png)"
@@ -658,7 +658,7 @@
                     <div class="FeatureCard-description___16E0W">Make families your true partners by sharing curriculum
                       overviews, student portfolios, and learning progress with them</div>
                   </div>
-                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="img/Fold_6.png"
+                  <div style="z-index:0" class="FeatureCard-imageContainer___Pc1mq"><img src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Fold_6.png"
                       style="width:100%"></div>
                 </div>
               </div>
@@ -669,10 +669,10 @@
                 <div class="SeamlessExp-subtitle___Cu0Em">Toddle works great with any computer or device and seamlessly
                   integrates with your favourite tools</div>
                 <div class="SeamlessExp-imageWrapper___2x3lx"><img class="SeamlessExp-image___1NlQ-"
-                    src="img/ToddleExp.png"><img class="SeamlessExp-image2___oB7Ew"
-                    src="img/ToddleExp2.png"></div><img style="transform: translate3d(0px, 0px, 0px);"
+                    src="<?php echo get_template_directory_uri(); ?>/img/myp/img//ToddleExp.png"><img class="SeamlessExp-image2___oB7Ew"
+                    src="<?php echo get_template_directory_uri(); ?>/img/myp/img//ToddleExp2.png"></div><img style="transform: translate3d(0px, 0px, 0px);"
                   class="SeamlessExp-illustration___3eP5U"
-                  src="img/Blue3DBall-c296fb12c9a19202de9751280939a2ee.png">
+                  src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Blue3DBall-c296fb12c9a19202de9751280939a2ee.png">
               </div>
             </div>
             <div class="PrivacySection-container___3kyiH">
@@ -682,16 +682,16 @@
                   <div class="PrivacySection-subtitle___wP314">We understand that by using Toddle, you are placing your trust
                     in us. It is our sincere endeavour that we do our utmost to uphold this trust.</div><img
                     style="transform: translate3d(0px, 0px, 0px);" class="PrivacySection-illustration___2Xv9R"
-                    src="img/Lock3D.png">
+                    src="<?php echo get_template_directory_uri(); ?>/img/myp/img//Lock3D.png">
                   <div class="PrivacySection-companyGrid___3nCQ4">
                     <div class="PrivacySection-imageHolder___2NjGt"><img
-                        src="img/logo_COPPA-4f42c345360351d1d09b19559f6d242d.png"
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//logo_COPPA-4f42c345360351d1d09b19559f6d242d.png"
                         class="PrivacySection-image___2Mzk3"></div>
                     <div class="PrivacySection-imageHolder___2NjGt"><img
-                        src="img/logo_Student_2-eed2228080bcebafd3ad0f213bf79df7.png"
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//logo_Student_2-eed2228080bcebafd3ad0f213bf79df7.png"
                         class="PrivacySection-image___2Mzk3"></div>
                     <div class="PrivacySection-imageHolder___2NjGt"><img
-                        src="img/logo_FERPA-e260381a4ea23658d2329c5076a4d599.png"
+                        src="<?php echo get_template_directory_uri(); ?>/img/myp/img//logo_FERPA-e260381a4ea23658d2329c5076a4d599.png"
                         class="PrivacySection-image___2Mzk3"></div>
                   </div>
                   <div class="PrivacySection-visitLinkHolder___2lxl-"><span class="PrivacySection-visitLink___2GwI3">Visit
@@ -843,7 +843,7 @@
                   </svg></a>
                 <div class="MobileFooter-navColumns___3JBVt">
                   <div id="navTitle" class="MobileFooter-navHeader___2tnm_ js-open">
-                    <div>Toddle Platform</div><img style="height:20px;width:20px" src="img/B1f0RArhw.png">
+                    <div>Toddle Platform</div><img style="height:20px;width:20px" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png">
                   </div>
                   <div class="js-open-child" aria-hidden="true" class="rah-static rah-static--height-zero">
                     <div>
@@ -855,7 +855,7 @@
                 </div>
                 <div class="MobileFooter-navColumns___3JBVt">
                   <div id="navTitle" class="MobileFooter-navHeader___2tnm_ js-open">
-                    <div>Toddle Events</div><img style="height:20px;width:20px" src="img/B1f0RArhw.png">
+                    <div>Toddle Events</div><img style="height:20px;width:20px" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png">
                   </div>
                   <div class="js-open-child" class="rah-static rah-static--height-zero">
                     <div >
@@ -870,7 +870,7 @@
                 </div>
                 <div class="MobileFooter-navColumns___3JBVt">
                   <div id="navTitle" class="MobileFooter-navHeader___2tnm_ js-open-humburger">
-                    <div>Community</div><img style="height:20px;width:20px" src="img/B1f0RArhw.png">
+                    <div>Community</div><img style="height:20px;width:20px" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png">
                   </div>
                   <div  aria-hidden="true" class="rah-static--height-zero">
                     <div class="js-open-child">
@@ -884,7 +884,7 @@
                 </div>
                 <div class="MobileFooter-navColumns___3JBVt">
                   <div id="navTitle" class="MobileFooter-navHeader___2tnm_ js-open-humburger">
-                    <div>Learn</div><img style="height:20px;width:20px" src="img/B1f0RArhw.png">
+                    <div>Learn</div><img style="height:20px;width:20px" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png">
                   </div>
                   <div aria-hidden="true" class=" rah-static--height-zero">
                     <div class="js-open-child">
@@ -897,7 +897,7 @@
                 </div>
                 <div class="MobileFooter-navColumns___3JBVt">
                   <div id="navTitle" class="MobileFooter-navHeader___2tnm_ js-open-humburger">
-                    <div>Policy and more</div><img style="height:20px;width:20px" src="img/B1f0RArhw.png">
+                    <div>Policy and more</div><img style="height:20px;width:20px" src="<?php echo get_template_directory_uri(); ?>/img/myp/img//B1f0RArhw.png">
                   </div>
                   <div aria-hidden="true" class="rah-static--height-zero">
                     <div class="js-open-child">
@@ -973,7 +973,7 @@
         </div>
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
         <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-        <script src="js/main.js"></script>
+        <script src="<?php echo get_template_directory_uri(); ?>/js/myp/js//main.js"></script>
       </body>
 </body>
 </html>
