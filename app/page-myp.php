@@ -320,10 +320,7 @@
                     teaching-learning experiences</li>
                 </ul>
                 <div class="HeroComponent-requestButton___37hQl">
-                  <div class="UIButton-lg___3Q9mi UIButton-button___ZVJ55"
-                    style="border-color:#f75961;background-color:#f75961;color:white;width:100%;min-width:144px;border-radius:8px;height:48px">
-                    <div style="font-size:1.4rem;font-weight:bold" class="UIButton-lgLabel___3UW2U">Book a Free Demo</div>
-                  </div>
+                <button type="button" class="btn btn-primary UIButton">bootstrap button sample</button>
                 </div>
               </div>
               <div class="HeroComponent-imageWrapper___2x91g">
